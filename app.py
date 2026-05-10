@@ -22,7 +22,6 @@ import os
 import tempfile
 import time
 
-import cv2
 import numpy as np
 import streamlit as st
 from PIL import Image
